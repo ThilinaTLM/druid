@@ -6,7 +6,6 @@ Cargo.lock
 .idea/
 
 ## Visual Studio Code
-.vscode/
 
 ## Sublime Text
 *.sublime-workspace
@@ -30,3 +29,7 @@ ehthumbs_vista.db
 
 ## Linux
 *~
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
