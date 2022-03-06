@@ -6,7 +6,6 @@ Cargo.lock
 .idea/
 
 ## Visual Studio Code
-.vscode/
 
 ## Sublime Text
 *.sublime-workspace
@@ -30,3 +29,4 @@ ehthumbs_vista.db
 
 ## Linux
 *~
+.vscode/
